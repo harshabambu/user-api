@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "ac81",
+      "username": "vvsv",
+      "email": "varanasivignesh@gmail.com",
+      "password": "12345678",
+      "mobile": "1234567890",
+      "profile": "https://bside.vigneshvaranasi.me/Photos/ASB_9102.jpeg"
+    },
+    {
+      "id": "1324",
+      "username": "vvsvignesh",
+      "email": "varanasivsv@gmail.com",
+      "password": "12345678",
+      "mobile": "999999999999",
+      "profile": "https://bside.vigneshvaranasi.me/Photos/IMG_3147.jpeg"
+    }
+  ]
+}
