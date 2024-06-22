@@ -1482,65 +1482,6 @@
   ],
   "user-cart": [
     {
-      "id": "29",
-      "title": "Juice",
-      "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
-      "category": "groceries",
-      "price": 3.99,
-      "discountPercentage": 5.45,
-      "rating": 3.41,
-      "stock": 99,
-      "tags": [
-        "beverages"
-      ],
-      "sku": "M2K19S06",
-      "weight": 2,
-      "dimensions": {
-        "width": 8.97,
-        "height": 12.26,
-        "depth": 15.05
-      },
-      "warrantyInformation": "1 week warranty",
-      "shippingInformation": "Ships in 1-2 business days",
-      "availabilityStatus": "In Stock",
-      "reviews": [
-        {
-          "rating": 4,
-          "comment": "Very satisfied!",
-          "date": "2024-05-23T08:56:21.620Z",
-          "reviewerName": "Leo Rivera",
-          "reviewerEmail": "leo.rivera@x.dummyjson.com"
-        },
-        {
-          "rating": 2,
-          "comment": "Not worth the price!",
-          "date": "2024-05-23T08:56:21.620Z",
-          "reviewerName": "Ethan Martinez",
-          "reviewerEmail": "ethan.martinez@x.dummyjson.com"
-        },
-        {
-          "rating": 4,
-          "comment": "Excellent quality!",
-          "date": "2024-05-23T08:56:21.620Z",
-          "reviewerName": "Max Parker",
-          "reviewerEmail": "max.parker@x.dummyjson.com"
-        }
-      ],
-      "returnPolicy": "90 days return policy",
-      "minimumOrderQuantity": 26,
-      "meta": {
-        "createdAt": "2024-05-23T08:56:21.620Z",
-        "updatedAt": "2024-05-23T08:56:21.620Z",
-        "barcode": "8546824122355",
-        "qrCode": "https://dummyjson.com/public/qr-code.png"
-      },
-      "images": [
-        "https://cdn.dummyjson.com/products/images/groceries/Juice/1.png"
-      ],
-      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Juice/thumbnail.png",
-      "username": "vvsv"
-    },
-    {
       "id": "28",
       "title": "Ice Cream",
       "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
@@ -1849,6 +1790,126 @@
       ],
       "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png",
       "username": "eswar"
+    },
+    {
+      "id": "1",
+      "title": "Essence Mascara Lash Princess",
+      "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+      "category": "beauty",
+      "price": 9.99,
+      "discountPercentage": 7.17,
+      "rating": 4.94,
+      "stock": 5,
+      "tags": [
+        "beauty",
+        "mascara"
+      ],
+      "brand": "Essence",
+      "sku": "RCH45Q1A",
+      "weight": 2,
+      "dimensions": {
+        "width": 23.17,
+        "height": 14.43,
+        "depth": 28.01
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Scarlett Wright",
+          "reviewerEmail": "scarlett.wright@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 24,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035109868",
+        "qrCode": "https://dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png",
+      "username": "vvsvignesh"
+    },
+    {
+      "id": "29",
+      "title": "Juice",
+      "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+      "category": "groceries",
+      "price": 3.99,
+      "discountPercentage": 5.45,
+      "rating": 3.41,
+      "stock": 99,
+      "tags": [
+        "beverages"
+      ],
+      "sku": "M2K19S06",
+      "weight": 2,
+      "dimensions": {
+        "width": 8.97,
+        "height": 12.26,
+        "depth": 15.05
+      },
+      "warrantyInformation": "1 week warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Leo Rivera",
+          "reviewerEmail": "leo.rivera@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Not worth the price!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ethan Martinez",
+          "reviewerEmail": "ethan.martinez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Max Parker",
+          "reviewerEmail": "max.parker@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 26,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "8546824122355",
+        "qrCode": "https://dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Juice/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Juice/thumbnail.png",
+      "username": "vvsv"
     }
   ]
 }
