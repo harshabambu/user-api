@@ -1,19 +1,19 @@
 {
   "users": [
     {
-      "id": "ac81",
       "username": "vvsv",
-      "email": "varanasivignesh@gmail.com",
+      "email": "varanasivsv@gmail.com",
       "password": "12345678",
-      "mobile": "1234567890",
-      "profile": "https://bside.vigneshvaranasi.me/Photos/ASB_9102.jpeg"
+      "mobile": "0987654321",
+      "profile": "https://bside.vigneshvaranasi.me/Photos/ASB_9102.jpeg",
+      "id": "ac81"
     },
     {
       "id": "1324",
       "username": "vvsvignesh",
       "email": "varanasivsv@gmail.com",
       "password": "12345678",
-      "mobile": "999999999999",
+      "mobile": "9999999999",
       "profile": "https://bside.vigneshvaranasi.me/Photos/IMG_3147.jpeg"
     },
     {
@@ -23,11 +23,19 @@
       "password": "ESWAR",
       "mobile": "1234567890",
       "profile": "https://bside.vigneshvaranasi.me/Photos/IMG_0408.JPG"
+    },
+    {
+      "id": "c0cb",
+      "username": "vivek",
+      "email": "test@gmail.com",
+      "password": "12345678",
+      "mobile": "1234567890",
+      "profile": "1"
     }
   ],
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Essence Mascara Lash Princess",
       "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
       "category": "beauty",
@@ -87,7 +95,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Eyeshadow Palette with Mirror",
       "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
       "category": "beauty",
@@ -147,7 +155,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Powder Canister",
       "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
       "category": "beauty",
@@ -207,7 +215,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "Red Lipstick",
       "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
       "category": "beauty",
@@ -267,7 +275,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Red Nail Polish",
       "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
       "category": "beauty",
@@ -327,7 +335,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png"
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Calvin Klein CK One",
       "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
       "category": "fragrances",
@@ -389,7 +397,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png"
     },
     {
-      "id": 7,
+      "id": "7",
       "title": "Chanel Coco Noir Eau De",
       "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
       "category": "fragrances",
@@ -451,7 +459,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png"
     },
     {
-      "id": 8,
+      "id": "8",
       "title": "Dior J'adore",
       "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
       "category": "fragrances",
@@ -513,7 +521,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png"
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "Dolce Shine Eau de",
       "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
       "category": "fragrances",
@@ -575,7 +583,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/thumbnail.png"
     },
     {
-      "id": 10,
+      "id": "10",
       "title": "Gucci Bloom Eau de",
       "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
       "category": "fragrances",
@@ -637,7 +645,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png"
     },
     {
-      "id": 11,
+      "id": "11",
       "title": "Annibale Colombo Bed",
       "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
       "category": "furniture",
@@ -699,7 +707,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/thumbnail.png"
     },
     {
-      "id": 12,
+      "id": "12",
       "title": "Annibale Colombo Sofa",
       "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
       "category": "furniture",
@@ -761,7 +769,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/thumbnail.png"
     },
     {
-      "id": 13,
+      "id": "13",
       "title": "Bedside Table African Cherry",
       "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
       "category": "furniture",
@@ -823,7 +831,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png"
     },
     {
-      "id": 14,
+      "id": "14",
       "title": "Knoll Saarinen Executive Conference Chair",
       "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
       "category": "furniture",
@@ -885,7 +893,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/thumbnail.png"
     },
     {
-      "id": 15,
+      "id": "15",
       "title": "Wooden Bathroom Sink With Mirror",
       "description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
       "category": "furniture",
@@ -947,7 +955,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/thumbnail.png"
     },
     {
-      "id": 16,
+      "id": "16",
       "title": "Apple",
       "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
       "category": "groceries",
@@ -1005,7 +1013,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png"
     },
     {
-      "id": 20,
+      "id": "20",
       "title": "Cooking Oil",
       "description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
       "category": "groceries",
@@ -1063,7 +1071,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png"
     },
     {
-      "id": 21,
+      "id": "21",
       "title": "Cucumber",
       "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
       "category": "groceries",
@@ -1121,7 +1129,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cucumber/thumbnail.png"
     },
     {
-      "id": 25,
+      "id": "25",
       "title": "Green Bell Pepper",
       "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
       "category": "groceries",
@@ -1179,7 +1187,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/thumbnail.png"
     },
     {
-      "id": 26,
+      "id": "26",
       "title": "Green Chili Pepper",
       "description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
       "category": "groceries",
@@ -1237,7 +1245,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/thumbnail.png"
     },
     {
-      "id": 27,
+      "id": "27",
       "title": "Honey Jar",
       "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
       "category": "groceries",
@@ -1295,7 +1303,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/thumbnail.png"
     },
     {
-      "id": 28,
+      "id": "28",
       "title": "Ice Cream",
       "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
       "category": "groceries",
@@ -1356,7 +1364,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/thumbnail.png"
     },
     {
-      "id": 29,
+      "id": "29",
       "title": "Juice",
       "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
       "category": "groceries",
@@ -1414,7 +1422,7 @@
       "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Juice/thumbnail.png"
     },
     {
-      "id": 30,
+      "id": "30",
       "title": "Kiwi",
       "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
       "category": "groceries",
@@ -1474,7 +1482,66 @@
   ],
   "user-cart": [
     {
-      "id": 28,
+      "id": "29",
+      "title": "Juice",
+      "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+      "category": "groceries",
+      "price": 3.99,
+      "discountPercentage": 5.45,
+      "rating": 3.41,
+      "stock": 99,
+      "tags": [
+        "beverages"
+      ],
+      "sku": "M2K19S06",
+      "weight": 2,
+      "dimensions": {
+        "width": 8.97,
+        "height": 12.26,
+        "depth": 15.05
+      },
+      "warrantyInformation": "1 week warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Leo Rivera",
+          "reviewerEmail": "leo.rivera@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Not worth the price!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ethan Martinez",
+          "reviewerEmail": "ethan.martinez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Max Parker",
+          "reviewerEmail": "max.parker@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 26,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "8546824122355",
+        "qrCode": "https://dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Juice/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Juice/thumbnail.png",
+      "username": "vvsv"
+    },
+    {
+      "id": "28",
       "title": "Ice Cream",
       "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
       "category": "groceries",
@@ -1536,7 +1603,129 @@
       "username": "vvsv"
     },
     {
-      "id": 12,
+      "id": "13",
+      "title": "Bedside Table African Cherry",
+      "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+      "category": "furniture",
+      "price": 299.99,
+      "discountPercentage": 9.58,
+      "rating": 4.48,
+      "stock": 16,
+      "tags": [
+        "furniture",
+        "bedside tables"
+      ],
+      "brand": "Furniture Co.",
+      "sku": "OWPLTZYX",
+      "weight": 10,
+      "dimensions": {
+        "width": 25.43,
+        "height": 20.2,
+        "depth": 24.95
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Avery Carter",
+          "reviewerEmail": "avery.carter@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Evelyn Sanchez",
+          "reviewerEmail": "evelyn.sanchez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 5,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "2913244159666",
+        "qrCode": "https://dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/1.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/2.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png",
+      "username": "vvsv"
+    },
+    {
+      "id": "16",
+      "title": "Apple",
+      "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+      "category": "groceries",
+      "price": 1.99,
+      "discountPercentage": 1.97,
+      "rating": 2.96,
+      "stock": 9,
+      "tags": [
+        "fruits"
+      ],
+      "sku": "QTROUV79",
+      "weight": 8,
+      "dimensions": {
+        "width": 8.29,
+        "height": 5.58,
+        "depth": 12.41
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Logan Lee",
+          "reviewerEmail": "logan.lee@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Elena Long",
+          "reviewerEmail": "elena.long@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Grayson Coleman",
+          "reviewerEmail": "grayson.coleman@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 44,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "2517819903837",
+        "qrCode": "https://dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Apple/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png",
+      "username": "eswar"
+    },
+    {
+      "id": "12",
       "title": "Annibale Colombo Sofa",
       "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
       "category": "furniture",
@@ -1599,189 +1788,67 @@
       "username": "eswar"
     },
     {
-      "id": 29,
-      "title": "Juice",
-      "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
-      "category": "groceries",
-      "price": 3.99,
-      "discountPercentage": 5.45,
-      "rating": 3.41,
-      "stock": 99,
+      "id": "6",
+      "title": "Calvin Klein CK One",
+      "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+      "category": "fragrances",
+      "price": 49.99,
+      "discountPercentage": 0.32,
+      "rating": 4.85,
+      "stock": 17,
       "tags": [
-        "beverages"
+        "fragrances",
+        "perfumes"
       ],
-      "sku": "M2K19S06",
-      "weight": 2,
+      "brand": "Calvin Klein",
+      "sku": "DZM2JQZE",
+      "weight": 5,
       "dimensions": {
-        "width": 8.97,
-        "height": 12.26,
-        "depth": 15.05
+        "width": 11.53,
+        "height": 14.44,
+        "depth": 6.81
       },
-      "warrantyInformation": "1 week warranty",
-      "shippingInformation": "Ships in 1-2 business days",
-      "availabilityStatus": "In Stock",
-      "reviews": [
-        {
-          "rating": 4,
-          "comment": "Very satisfied!",
-          "date": "2024-05-23T08:56:21.620Z",
-          "reviewerName": "Leo Rivera",
-          "reviewerEmail": "leo.rivera@x.dummyjson.com"
-        },
-        {
-          "rating": 2,
-          "comment": "Not worth the price!",
-          "date": "2024-05-23T08:56:21.620Z",
-          "reviewerName": "Ethan Martinez",
-          "reviewerEmail": "ethan.martinez@x.dummyjson.com"
-        },
-        {
-          "rating": 4,
-          "comment": "Excellent quality!",
-          "date": "2024-05-23T08:56:21.620Z",
-          "reviewerName": "Max Parker",
-          "reviewerEmail": "max.parker@x.dummyjson.com"
-        }
-      ],
-      "returnPolicy": "90 days return policy",
-      "minimumOrderQuantity": 26,
-      "meta": {
-        "createdAt": "2024-05-23T08:56:21.620Z",
-        "updatedAt": "2024-05-23T08:56:21.620Z",
-        "barcode": "8546824122355",
-        "qrCode": "https://dummyjson.com/public/qr-code.png"
-      },
-      "images": [
-        "https://cdn.dummyjson.com/products/images/groceries/Juice/1.png"
-      ],
-      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Juice/thumbnail.png",
-      "username": "vvsv"
-    },
-    {
-      "id": 12,
-      "title": "Annibale Colombo Sofa",
-      "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
-      "category": "furniture",
-      "price": 2499.99,
-      "discountPercentage": 18.54,
-      "rating": 3.08,
-      "stock": 16,
-      "tags": [
-        "furniture",
-        "sofas"
-      ],
-      "brand": "Annibale Colombo",
-      "sku": "LUU95CQP",
-      "weight": 3,
-      "dimensions": {
-        "width": 20.97,
-        "height": 19.11,
-        "depth": 25.81
-      },
-      "warrantyInformation": "1 month warranty",
+      "warrantyInformation": "5 year warranty",
       "shippingInformation": "Ships overnight",
       "availabilityStatus": "In Stock",
       "reviews": [
         {
           "rating": 5,
-          "comment": "Very satisfied!",
-          "date": "2024-05-23T08:56:21.620Z",
-          "reviewerName": "Tyler Davis",
-          "reviewerEmail": "tyler.davis@x.dummyjson.com"
-        },
-        {
-          "rating": 5,
-          "comment": "Excellent quality!",
-          "date": "2024-05-23T08:56:21.620Z",
-          "reviewerName": "Hannah Robinson",
-          "reviewerEmail": "hannah.robinson@x.dummyjson.com"
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Sophia Brown",
+          "reviewerEmail": "sophia.brown@x.dummyjson.com"
         },
         {
           "rating": 3,
-          "comment": "Waste of money!",
-          "date": "2024-05-23T08:56:21.620Z",
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.619Z",
           "reviewerName": "Madison Collins",
           "reviewerEmail": "madison.collins@x.dummyjson.com"
-        }
-      ],
-      "returnPolicy": "7 days return policy",
-      "minimumOrderQuantity": 1,
-      "meta": {
-        "createdAt": "2024-05-23T08:56:21.620Z",
-        "updatedAt": "2024-05-23T08:56:21.620Z",
-        "barcode": "0426785817074",
-        "qrCode": "https://dummyjson.com/public/qr-code.png"
-      },
-      "images": [
-        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/1.png",
-        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/2.png",
-        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/3.png"
-      ],
-      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/thumbnail.png",
-      "username": "vvsv"
-    },
-    {
-      "id": 13,
-      "title": "Bedside Table African Cherry",
-      "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
-      "category": "furniture",
-      "price": 299.99,
-      "discountPercentage": 9.58,
-      "rating": 4.48,
-      "stock": 16,
-      "tags": [
-        "furniture",
-        "bedside tables"
-      ],
-      "brand": "Furniture Co.",
-      "sku": "OWPLTZYX",
-      "weight": 10,
-      "dimensions": {
-        "width": 25.43,
-        "height": 20.2,
-        "depth": 24.95
-      },
-      "warrantyInformation": "6 months warranty",
-      "shippingInformation": "Ships in 1-2 business days",
-      "availabilityStatus": "In Stock",
-      "reviews": [
-        {
-          "rating": 5,
-          "comment": "Very happy with my purchase!",
-          "date": "2024-05-23T08:56:21.620Z",
-          "reviewerName": "John Doe",
-          "reviewerEmail": "john.doe@x.dummyjson.com"
         },
         {
-          "rating": 4,
-          "comment": "Highly recommended!",
-          "date": "2024-05-23T08:56:21.620Z",
-          "reviewerName": "Avery Carter",
-          "reviewerEmail": "avery.carter@x.dummyjson.com"
-        },
-        {
-          "rating": 4,
-          "comment": "Very pleased!",
-          "date": "2024-05-23T08:56:21.620Z",
-          "reviewerName": "Evelyn Sanchez",
-          "reviewerEmail": "evelyn.sanchez@x.dummyjson.com"
+          "rating": 1,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Maya Reed",
+          "reviewerEmail": "maya.reed@x.dummyjson.com"
         }
       ],
       "returnPolicy": "No return policy",
-      "minimumOrderQuantity": 5,
+      "minimumOrderQuantity": 20,
       "meta": {
-        "createdAt": "2024-05-23T08:56:21.620Z",
-        "updatedAt": "2024-05-23T08:56:21.620Z",
-        "barcode": "2913244159666",
+        "createdAt": "2024-05-23T08:56:21.619Z",
+        "updatedAt": "2024-05-23T08:56:21.619Z",
+        "barcode": "2210136215089",
         "qrCode": "https://dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/1.png",
-        "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/2.png",
-        "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"
+        "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/1.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/2.png",
+        "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/3.png"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png",
-      "username": "vvsv"
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png",
+      "username": "eswar"
     }
   ]
 }
